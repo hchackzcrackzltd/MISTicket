@@ -6,12 +6,17 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "axios-es6": "^0.11.1",
     "body-parser": "~1.18.2",
+    "bootstrap": "^4.0.0-beta.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.15.5",
+    "jquery": "^3.2.1",
     "morgan": "~1.9.0",
+    "popper.js": "^1.12.6",
     "pug": "2.0.0-beta11",
-    "serve-favicon": "~2.4.5"
+    "serve-favicon": "~2.4.5",
+    "webpack": "^3.8.1"
   }
 }
